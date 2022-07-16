@@ -1,0 +1,6 @@
+# Configuration
+title = "Configuration"
+
+[base]
+port = 3000
+image_path = "image"
